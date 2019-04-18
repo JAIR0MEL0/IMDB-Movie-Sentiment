@@ -3,14 +3,14 @@
 Thanks for taking the time read my code.  Hope it won't take too long.
 
 I'm now using one single notebook.  ML1010MovieReview_JairoMelo.ipynb
+https://github.com/JAIR0MEL0/ML1010FinalProject/blob/master/ML1010MovieReview_JairoMelo.ipynb
 
 Random Forest and Gradient Boosting classifiers are done.
 
 RandomForestClassifier finished:  Precision: 0.852 / Recall: 0.87 / Accuracy: 0.862
-
 GradientBoostingClassifier: Precision: 0.818 / Recall: 0.873 / Accuracy: 0.843
 
-Right now, Flair Text Classifier is running.
+Flair training Text Classifier is done, prediction is done, and now I'm calculating the learnign curve.  Outstanding to compare Precision, Recall and Accuracy for Flair.
 
 Your inputs would be greatly appreciated.
 Thank you!

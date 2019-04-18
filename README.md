@@ -1,5 +1,5 @@
-#Message for Annie:
-Hi Annie,
+# Message for Annie:
+***Hi Annie,***
 Thanks for taking the time read my code.  Hope it won't take too long.
 
 I'm now using one single notebook.  ML1010MovieReview_JairoMelo.ipynb

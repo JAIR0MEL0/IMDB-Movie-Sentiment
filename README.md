@@ -1,3 +1,23 @@
+#Message for Annie:
+Hi Annie,
+Thanks for taking the time read my code.  Hope it won't take too long.
+
+I'm now using one single notebook.  ML1010MovieReview_JairoMelo.ipynb
+
+Random Forest and Gradient Boosting classifiers are done.
+
+RandomForestClassifier finished:  Precision: 0.852 / Recall: 0.87 / Accuracy: 0.862
+
+GradientBoostingClassifier: Precision: 0.818 / Recall: 0.873 / Accuracy: 0.843
+
+Right now, Flair Text Classifier is running.
+
+Your inputs would be greatly appreciated.
+Thank you!
+Jairo
+
+*************************************************************************************
+
 # Project Proposal - IMDB Movie Sentiment
 Prepared for: Annie Lee, PHD, MMATH
 Prepared by: Jairo Melo, Ing. MSC

@@ -1,8 +1,7 @@
 # Project Proposal - IMDB Movie Sentiment
 Prepared for: Annie Lee, PHD, MMATH
 Prepared by: Jairo Melo, Ing. MSC
-March 27, 2019
-Proposal number: ML1010-IMDB001
+
 
 ## 1. Problem Definition
 Sentiment analysis is a well-known method in the world of natural language processing. The  objective is to determine the polarity of of the reviews.  The inputs the Movie reviews collected by IMDB, and the output is whether the review is positive or negative.
